@@ -1,7 +1,7 @@
 # Cardio-Vascular-Disease-Risk-Prediction-Aplication
 # This is an application aimed at predicting serious heart conditions based on a chosen dataset.
 # The CVD.csv file has been chosen from the Kaggle Dataset for the above problem statement.
-# Technology Used : Data Analysis and Machine Learning
+Technology Used : Data Analysis and Machine Learning
 # Locally Hosted through : Streamlit
 # Exploratory Data Analysis : Preformed to gain a better understanding of the dataset and the type and nature of various features.
 # Data Visualisation : Done to find insights about relevant features and the relationships between them.
